@@ -51,7 +51,7 @@ public class BoardPage {
     }
 
     public BoardPage acessBoard(){
-        Hook.getDriver().get("https://trello.com/b/I7srpCOv/primeautomacaos");
+        Hook.getDriver().get("https://trello.com/b/ICLxsmNI/automationprime");
         return this;
     }
 

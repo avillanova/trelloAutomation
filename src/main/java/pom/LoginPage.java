@@ -37,6 +37,7 @@ public class LoginPage {
         return this;
     }
     public String checkInitialPage(){
+
         return waitBy(initialPage).getAttribute("aria-label");
     }
 

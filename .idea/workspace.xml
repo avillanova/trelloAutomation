@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fbae690c-7178-4f91-ab19-a0b47c3a8fb3" name="Default Changelist" comment="" />
+    <list default="true" id="fbae690c-7178-4f91-ab19-a0b47c3a8fb3" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pom/BoardPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pom/BoardPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pom/LoginPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pom/LoginPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/steps/TrelloStep.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/util/Hook.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/util/Hook.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/util/Runner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/util/Runner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/features/trello.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/features/ui/trello.feature" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/features/trello.feature" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/pom/BoardPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/pom/BoardPage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/steps/TrelloStep.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/util/Hook.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/util/Hook.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/util/Runner.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/util/Runner.class" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -14,54 +28,56 @@
     <session id="361716149">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="2" />
-          <entry key="project.open.time.1" value="2" />
+          <entry key="project.closed" value="10" />
+          <entry key="project.open.time.0" value="1" />
+          <entry key="project.open.time.1" value="6" />
+          <entry key="project.open.time.14" value="1" />
           <entry key="project.open.time.3" value="1" />
-          <entry key="project.opened" value="3" />
+          <entry key="project.open.time.9" value="2" />
+          <entry key="project.opened" value="11" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="feature" value="5" />
-          <entry key="java" value="14" />
-          <entry key="xml" value="1" />
+          <entry key="class" value="3" />
+          <entry key="feature" value="10" />
+          <entry key="java" value="28" />
+          <entry key="xml" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="Cucumber" value="5" />
-          <entry key="JAVA" value="14" />
-          <entry key="XML" value="1" />
+          <entry key="CLASS" value="3" />
+          <entry key="Cucumber" value="10" />
+          <entry key="JAVA" value="28" />
+          <entry key="XML" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="feature" value="214" />
-          <entry key="java" value="3002" />
-          <entry key="xml" value="5" />
+          <entry key="feature" value="452" />
+          <entry key="java" value="3632" />
+          <entry key="txt" value="16" />
+          <entry key="xml" value="32" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Cucumber" value="214" />
-          <entry key="JAVA" value="3002" />
-          <entry key="XML" value="5" />
+          <entry key="Cucumber" value="452" />
+          <entry key="JAVA" value="3632" />
+          <entry key="PLAIN_TEXT" value="16" />
+          <entry key="XML" value="32" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/steps/TrelloStep.java">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/resources/features/ui/trello.feature">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="462">
-              <caret line="18" column="34" selection-start-line="18" selection-start-column="34" selection-end-line="18" selection-end-column="34" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="method#acesseOBoard#0;class#TrelloStep#0" />
-                <element signature="method#crioUmCardComONome#0;class#TrelloStep#0" />
-              </folding>
+            <state relative-caret-position="272">
+              <caret line="8" column="11" selection-start-line="8" selection-start-column="11" selection-end-line="8" selection-end-column="11" />
             </state>
           </provider>
         </entry>
@@ -69,8 +85,20 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/util/Runner.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="7" column="38" selection-start-line="7" selection-start-column="38" selection-end-line="7" selection-end-column="38" />
+            <state relative-caret-position="306">
+              <caret line="11" column="9" selection-start-line="11" selection-start-column="9" selection-end-line="11" selection-end-column="9" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/steps/api/TrelloStep.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="566">
+              <caret line="19" column="26" lean-forward="true" selection-start-line="19" selection-start-column="26" selection-end-line="19" selection-end-column="26" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -79,12 +107,25 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/util/Hook.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/steps/ui/TrelloStep.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="340">
-              <caret line="13" column="33" lean-forward="true" selection-start-line="13" selection-start-column="33" selection-end-line="13" selection-end-column="33" />
+            <state relative-caret-position="170">
+              <caret line="11" column="10" lean-forward="true" selection-start-line="11" selection-start-column="10" selection-end-line="11" selection-end-column="10" />
               <folding>
                 <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/util/Tools.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="136">
+              <caret line="8" column="18" selection-start-line="8" selection-start-column="18" selection-end-line="8" selection-end-column="18" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="method#waitBy#0;class#Tools#0" />
               </folding>
             </state>
           </provider>
@@ -93,17 +134,43 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/pom/BoardPage.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="116">
-              <caret line="5" column="39" lean-forward="true" selection-start-line="5" selection-start-column="39" selection-end-line="5" selection-end-column="39" />
+            <state relative-caret-position="340">
+              <caret line="20" column="38" selection-start-line="20" selection-start-column="38" selection-end-line="20" selection-end-column="38" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/resources/features/trello.feature">
+        <entry file="file://$PROJECT_DIR$/src/main/resources/features/api/trello.feature">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="5" column="29" selection-start-line="5" selection-start-column="27" selection-end-line="5" selection-end-column="29" />
+            <state relative-caret-position="272">
+              <caret line="8" column="16" selection-start-line="8" selection-start-column="16" selection-end-line="8" selection-end-column="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/util/Hook.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1258">
+              <caret line="46" column="28" selection-start-line="46" selection-start-column="28" selection-end-line="46" selection-end-column="28" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#1492#1493#0" expanded="true" />
+                <element signature="e#1521#1522#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="566">
+              <caret line="56" column="27" selection-start-line="56" selection-start-column="27" selection-end-line="56" selection-end-column="27" />
             </state>
           </provider>
         </entry>
@@ -111,8 +178,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/pom/LoginPage.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="149">
-              <caret line="27" column="10" selection-start-line="27" selection-start-column="10" selection-end-line="27" selection-end-column="10" />
+            <state relative-caret-position="1054">
+              <caret line="40" column="8" selection-start-line="40" selection-start-column="8" selection-end-line="40" selection-end-column="8" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -129,30 +196,54 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/src/test/java/TrelloStep.java" />
         <option value="$PROJECT_DIR$/src/test/resources/trello.feature" />
         <option value="$PROJECT_DIR$/src/test/java/trello/TrelloStep.java" />
-        <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/test/java/steps/TrelloStep.java" />
         <option value="$PROJECT_DIR$/src/main/java/util/Tools.java" />
-        <option value="$PROJECT_DIR$/src/main/java/pom/LoginPage.java" />
-        <option value="$PROJECT_DIR$/src/main/java/util/Hook.java" />
-        <option value="$PROJECT_DIR$/src/main/java/util/Runner.java" />
-        <option value="$PROJECT_DIR$/src/main/java/pom/BoardPage.java" />
         <option value="$PROJECT_DIR$/src/main/resources/features/trello.feature" />
         <option value="$PROJECT_DIR$/src/main/java/steps/TrelloStep.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/resources/features/api/trello.feature" />
+        <option value="$PROJECT_DIR$/src/main/java/util/Runner.java" />
+        <option value="$PROJECT_DIR$/src/main/java/util/Hook.java" />
+        <option value="$PROJECT_DIR$/src/main/java/pom/BoardPage.java" />
+        <option value="$PROJECT_DIR$/src/main/java/steps/ui/TrelloStep.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/features/ui/trello.feature" />
+        <option value="$PROJECT_DIR$/src/main/java/steps/api/TrelloStep.java" />
+        <option value="$PROJECT_DIR$/src/main/java/pom/LoginPage.java" />
       </list>
     </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="automationExemplo" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="automationExemplo" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Dependencies" type="f4be9f2a:MavenProjectsStructure$DependenciesNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-8" />
     <option name="y" value="-8" />
     <option name="width" value="1936" />
-    <option name="height" value="1096" />
+    <option name="height" value="1056" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -207,6 +298,24 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="steps" type="462c0819:PsiDirectoryNode" />
+              <item name="api" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="automationExemplo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="automationExemplo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="steps" type="462c0819:PsiDirectoryNode" />
+              <item name="ui" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="automationExemplo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="automationExemplo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="util" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -224,6 +333,24 @@
               <item name="resources" type="462c0819:PsiDirectoryNode" />
               <item name="features" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="automationExemplo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="automationExemplo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="features" type="462c0819:PsiDirectoryNode" />
+              <item name="api" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="automationExemplo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="automationExemplo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="features" type="462c0819:PsiDirectoryNode" />
+              <item name="ui" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -232,12 +359,17 @@
   </component>
   <component name="PropertiesComponent">
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RecentsManager">
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="" />
     </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\develop\Prime\automationExemplo\src\main\resources\features\api" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\develop\Prime\automationExemplo\src\main\resources\features\ui" />
       <recent name="D:\develop\Prime\automationExemplo\src\main\resources\features" />
     </key>
   </component>
@@ -253,16 +385,33 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.Runner">
-    <configuration name="Scenario: Criando, comentando e deletando um card" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Cucumber java.Feature: trello (1)">
+    <configuration name="Feature: trello (1)" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
       <option name="CUCUMBER_CORE_VERSION" value="1.2" />
-      <option name="FILE_PATH" value="$PROJECT_DIR$/src/main/resources/features/trello.feature" />
-      <option name="GLUE" value="util steps" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/main/resources/features/api/trello.feature" />
+      <option name="GLUE" value="util steps.api" />
       <option name="MAIN_CLASS_NAME" value="cucumber.api.cli.Main" />
       <module name="automationExemplo" />
-      <option name="NAME_FILTER" value="^Criando\, comentando e deletando um card$" />
-      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvmSMFormatter --monochrome --name &quot;^Criando\, comentando e deletando um card$&quot;" />
-      <option name="SUGGESTED_NAME" value="Scenario: Criando, comentando e deletando um card" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvmSMFormatter --monochrome" />
+      <option name="SUGGESTED_NAME" value="Feature: trello" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cucumber.api.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Feature: trello" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="1.2" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/main/resources/features/ui/trello.feature" />
+      <option name="GLUE" value="util steps.ui" />
+      <option name="MAIN_CLASS_NAME" value="cucumber.api.cli.Main" />
+      <module name="automationExemplo" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvmSMFormatter --monochrome" />
+      <option name="SUGGESTED_NAME" value="Feature: trello" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="cucumber.api.cli.*" />
@@ -283,18 +432,49 @@
       </extension>
       <option name="PACKAGE_NAME" value="util" />
       <option name="MAIN_CLASS_NAME" value="util.Runner" />
+      <option name="METHOD_NAME" value="" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" value="" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration default="true" type="MavenRunConfiguration" factoryName="Maven">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="clean" />
+                <option value="test" />
+              </list>
+            </option>
+            <option name="pomFileName" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
     <list>
-      <item itemvalue="Cucumber java.Scenario: Criando, comentando e deletando um card" />
       <item itemvalue="JUnit.Runner" />
+      <item itemvalue="Cucumber java.Feature: trello" />
+      <item itemvalue="Cucumber java.Feature: trello (1)" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Cucumber java.Feature: trello (1)" />
+        <item itemvalue="Cucumber java.Feature: trello" />
         <item itemvalue="JUnit.Runner" />
-        <item itemvalue="Cucumber java.Scenario: Criando, comentando e deletando um card" />
       </list>
     </recent_temporary>
   </component>
@@ -312,53 +492,84 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="Runner - 2018.09.29 at 10h 56m 59s.xml">
+    <history-entry file="Runner - 2018.10.06 at 11h 32m 15s.xml">
       <configuration name="Runner" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Runner - 2018.09.29 at 11h 06m 22s.xml">
+    <history-entry file="Runner - 2018.10.06 at 11h 32m 18s.xml">
       <configuration name="Runner" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Runner - 2018.09.29 at 11h 07m 13s.xml">
+    <history-entry file="Runner - 2018.10.06 at 11h 32m 22s.xml">
       <configuration name="Runner" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Runner - 2018.09.29 at 11h 21m 44s.xml">
+    <history-entry file="Runner - 2018.10.06 at 11h 33m 21s.xml">
       <configuration name="Runner" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Runner - 2018.09.29 at 11h 22m 59s.xml">
+    <history-entry file="Runner - 2018.10.06 at 11h 34m 03s.xml">
       <configuration name="Runner" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Runner - 2018.09.29 at 11h 23m 32s.xml">
+    <history-entry file="Runner - 2018.10.06 at 11h 34m 29s.xml">
       <configuration name="Runner" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Runner - 2018.09.29 at 11h 28m 32s.xml">
+    <history-entry file="Runner - 2018.10.06 at 11h 34m 47s.xml">
       <configuration name="Runner" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Runner - 2018.09.29 at 11h 30m 24s.xml">
+    <history-entry file="Runner - 2018.10.06 at 11h 35m 39s.xml">
       <configuration name="Runner" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Runner - 2018.09.29 at 11h 31m 46s.xml">
-      <configuration name="Runner" configurationId="JUnit" />
+    <history-entry file="Feature__trello - 2018.11.24 at 10h 31m 25s.xml">
+      <configuration name="Feature: trello" configurationId="CucumberJavaRunConfigurationType" />
     </history-entry>
-    <history-entry file="Runner - 2018.09.29 at 17h 49m 29s.xml">
-      <configuration name="Runner" configurationId="JUnit" />
+    <history-entry file="Feature__trello_(1) - 2018.11.24 at 10h 31m 38s.xml">
+      <configuration name="Feature: trello (1)" configurationId="CucumberJavaRunConfigurationType" />
     </history-entry>
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2553305" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22287862" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Favorites" order="3" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32936078" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32936078" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.42333335" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3997833" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32936078" />
+      <window_info anchor="bottom" id="Version Control" order="7" weight="0.32936078" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.32936078" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.21776815" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette&#9;" order="3" />
+      <window_info anchor="right" id="Maven Projects" order="4" weight="0.14712153" />
+    </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25799572" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Favorites" order="3" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32936078" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32936078" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3997833" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32936078" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Terminal" order="8" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="10" />
@@ -367,41 +578,59 @@
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Palette&#9;" order="3" />
       <window_info anchor="right" id="Maven Projects" order="4" />
-    </layout>
+    </layout-to-restore>
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/pom.xml">
+    <entry file="file://$PROJECT_DIR$/target/generated-test-sources/cucumber/Parallel01IT.java" />
+    <entry file="jar://$MAVEN_REPOSITORY$/info/cukes/cucumber-core/1.2.5/cucumber-core-1.2.5.jar!/cucumber/runtime/Timeout.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1598">
-          <caret line="47" column="26" selection-start-line="47" selection-start-column="26" selection-end-line="47" selection-end-column="26" />
+        <state relative-caret-position="408">
+          <caret line="20" selection-start-line="20" selection-end-line="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/info/cukes/cucumber-core/1.2.5/cucumber-core-1.2.5.jar!/cucumber/runtime/Utils.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="328">
+          <caret line="56" selection-start-line="56" selection-end-line="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/features/ui/trello.feature">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="8" column="11" selection-start-line="8" selection-start-column="11" selection-end-line="8" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/util/Runner.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="11" column="9" selection-start-line="11" selection-start-column="9" selection-end-line="11" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/util/Tools.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="500">
-          <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
+        <state relative-caret-position="136">
+          <caret line="8" column="18" selection-start-line="8" selection-start-column="18" selection-end-line="8" selection-end-column="18" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#456#464#0" expanded="true" />
+            <element signature="method#waitBy#0;class#Tools#0" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/pom/BoardPage.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="116">
-          <caret line="5" column="39" lean-forward="true" selection-start-line="5" selection-start-column="39" selection-end-line="5" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/util/Runner.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="7" column="38" selection-start-line="7" selection-start-column="38" selection-end-line="7" selection-end-column="38" />
+        <state relative-caret-position="340">
+          <caret line="20" column="38" selection-start-line="20" selection-start-column="38" selection-end-line="20" selection-end-column="38" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -410,39 +639,56 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/util/Hook.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="13" column="33" lean-forward="true" selection-start-line="13" selection-start-column="33" selection-end-line="13" selection-end-column="33" />
+        <state relative-caret-position="1258">
+          <caret line="46" column="28" selection-start-line="46" selection-start-column="28" selection-end-line="46" selection-end-column="28" />
           <folding>
             <element signature="imports" expanded="true" />
+            <element signature="e#1492#1493#0" expanded="true" />
+            <element signature="e#1521#1522#0" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/features/trello.feature">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="5" column="29" selection-start-line="5" selection-start-column="27" selection-end-line="5" selection-end-column="29" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/pom/LoginPage.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="149">
-          <caret line="27" column="10" selection-start-line="27" selection-start-column="10" selection-end-line="27" selection-end-column="10" />
+        <state relative-caret-position="1054">
+          <caret line="40" column="8" selection-start-line="40" selection-start-column="8" selection-end-line="40" selection-end-column="8" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/steps/TrelloStep.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/steps/ui/TrelloStep.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="462">
-          <caret line="18" column="34" selection-start-line="18" selection-start-column="34" selection-end-line="18" selection-end-column="34" />
+        <state relative-caret-position="170">
+          <caret line="11" column="10" lean-forward="true" selection-start-line="11" selection-start-column="10" selection-end-line="11" selection-end-column="10" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="method#acesseOBoard#0;class#TrelloStep#0" />
-            <element signature="method#crioUmCardComONome#0;class#TrelloStep#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="566">
+          <caret line="56" column="27" selection-start-line="56" selection-start-column="27" selection-end-line="56" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/features/api/trello.feature">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="8" column="16" selection-start-line="8" selection-start-column="16" selection-end-line="8" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/steps/api/TrelloStep.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="566">
+          <caret line="19" column="26" lean-forward="true" selection-start-line="19" selection-start-column="26" selection-end-line="19" selection-end-column="26" />
+          <folding>
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
